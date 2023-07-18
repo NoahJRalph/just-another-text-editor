@@ -1,4 +1,5 @@
 import { openDB } from 'idb';
+
 const initdb = async () =>
   openDB('jate', 1, {
     upgrade(db) {
@@ -28,6 +29,6 @@ export const getDb = async () => {
   const request = store.getAll();
   const result = await request;
   console.log(`All data received from DB.`, result);
-  return result;
+  return result?.value;
 };
 initdb();
