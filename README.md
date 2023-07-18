@@ -13,7 +13,10 @@
 
 ## Description
 
-My very own Text Editor PWA, allowing for text editing either online or offline via installing the application using your favorite browser. Made using the criteria from Module 19 of my edX Web Development bootcamp. I made it as compact as possible within my tight time limit I had.
+My very own Text Editor PWA, allowing for text editing either online or offline desktop use via installing the application using your favorite browser.
+
+Made using the criteria from Module 19 of my edX Web Development bootcamp. I made it as compact as possible within my tight time limit I had.
+
 The application was built using JS, CSS, HTML, and Node.js. JATE uses IndexedDB to store and access information, Webpack for PWA packaging, and Express for server deployment. JATE also caches data when the window is minimized for easy data access.
 
 ## Installation
