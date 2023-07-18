@@ -25,7 +25,8 @@ Not necessary. Access via the deployed heroku link.
 0. Access the deployed program via the heroku link.
 1. Interact with the program via entering text, I would recommend JS code, as the program can assist visually with syntax via font coloring.
 2. To install the program for offline use, hit the install button on a commonly supported browser.
-3. To uninstall, hit the 3-dots icon in the upper right hand corner, and select "Uninstall J.A.T.E.". Follow the prompts to uninstall.
+3. Open the program locally in offline-mode via the program shortcut deployed on your desktop.
+4. To uninstall, hit the 3-dots icon in the upper right hand corner, and select "Uninstall J.A.T.E.". Follow the prompts to uninstall.
 
 ## Deployment
 
